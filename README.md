@@ -1,7 +1,4 @@
-Ingénierie Système
+  # TP-GIT-TAIGA
 
-Groupe : Thomas TACHERON (Git Master), Jonas SOUEIDAN (Product Owner)
-
-
-
-TAIGA-url: [https://tree.taiga.io/project/jonas_s-tp-git-taiga/timeline](https://tree.taiga.io/project/jonas_s-tp-git-taiga/timeline)
+  * Git-url: [https://github.com/XXX](https://github.com/XXX)
+  * TAIGA-url: [https://tree.taiga.io/project/jonas_s-tp-git-taiga/timeline](https://tree.taiga.io/project/jonas_s-tp-git-taiga/timeline)
